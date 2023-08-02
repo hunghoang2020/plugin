@@ -1,0 +1,10 @@
+.group_entry_nav {
+    align-items: center;
+    display: flex;
+    flex: 1 1 auto;
+
+}
+
+.subsubsub {
+    flex: 1 1 45%;
+}
